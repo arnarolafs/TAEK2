@@ -1,0 +1,7 @@
+#Tæk verkefni
+
+1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+
+Svar: Random-Access-Memory, er týpa af tölvu geymslu, RAM geymir marg notaðar forritunar upplýsingar til að
+
+auka almennan hraða í tölfuni.
