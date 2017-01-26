@@ -12,3 +12,7 @@ auka almennan hraða í tölvunni.
 Svar: Read-only memory, er í tölfum til að geyma hugbúnað sem tengist sérstökum vélbúnað, þarf líklegast ekki
 
 uppfæringar.
+
+3. Hvað er fyrirbyggjandi viðhald?
+
+Svar: fyrirfram planað viðhald við tölfur til að hindra fyrir því að talfan skemmist.
