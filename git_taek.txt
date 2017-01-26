@@ -4,4 +4,11 @@
 
 Svar: Random-Access-Memory, er týpa af tölvu geymslu, RAM geymir marg notaðar forritunar upplýsingar til að
 
-auka almennan hraða í tölfuni.
+auka almennan hraða í tölvunni.
+
+
+2. Fyrir hvað stendur skammstöfunin ROMÐ Útskýrðu hvað ROM er.
+
+Svar: Read-only memory, er í tölfum til að geyma hugbúnað sem tengist sérstökum vélbúnað, þarf líklegast ekki
+
+uppfæringar.
